@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oz7u5VKtX9dfK3pY1E59kZQxmTCMOtMvVthBB9sZqMugtIApBGhdfvkh8zwRyTiCPq3WcO+NNZmRitK8Vtc/1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lazar\\source\\repos\\ParkingServis\\ParkingServis\\ParkingServis\\ParkingServis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lazar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\xam.plugins.messaging\\5.2.0\\xam.plugins.messaging.5.2.0.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\xamarin.forms.fontawesome.solid\\1.0.0\\xamarin.forms.fontawesome.solid.1.0.0.nupkg.sha512",
+    "C:\\Users\\Lazar\\.nuget\\packages\\xamarin.forms.iconfonthelper\\1.0.0\\xamarin.forms.iconfonthelper.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

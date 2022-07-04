@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:iconsB="clr-namespace:FontAwesome.Solid;assembly=FontAwesome.Solid"
+             x:Class="ParkingServis.Glavna">
+    
+    <StackLayout>
+        <Frame>
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="260" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label x:Name="Gradd" FontSize="23"  HorizontalTextAlignment="Start" Grid.Column="0"  Text="" />
+                <Image HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="1"  >
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer
+                        Tapped="City_Tapped"
+                        NumberOfTapsRequired="1" />
+                    </Image.GestureRecognizers>
+                    <Image.Source>
+                        <iconsB:IconSource Icon="City" Size="40" Color="#1B1B1B" />
+                    </Image.Source>
+                </Image>
+                <Image HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="2"  >
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer
+                        Tapped="Licence_Tapped"
+                        NumberOfTapsRequired="1" />
+                    </Image.GestureRecognizers>
+                    <Image.Source>
+                        <iconsB:IconSource Icon="Memory" Size="40" Color="#1B1B1B" />
+                    </Image.Source>
+                </Image>
+            </Grid>
+        </Frame>
+        <Label x:Name="Tablicaa" FontSize="50" HorizontalOptions="Center" VerticalOptions="Center" Text="" >
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="Tablice_Tapped" NumberOfTapsRequired="1"/>
+            </Label.GestureRecognizers>
+        </Label>
+        <ListView x:Name="ListV" VerticalScrollBarVisibility="Always" ItemsSource="{Binding DataSource}" >
+            <ListView.ItemTemplate >
+                <DataTemplate >
+                    <ViewCell  >
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="{Binding Naziv}" TextColor="Black" FontFamily="Helvetica"   FontSize="28"/>
+                            <Label Text="{Binding MaxZadrzavanje}" TextColor="Black" FontFamily="Helvetica"  FontSize="20" />
+                            <Label Text="{Binding VremeNaplate}" TextColor="Black" FontFamily="Helvetica"  FontSize="20" />
+                            <Label Text="{Binding Cena}" TextColor="Black" FontFamily="Helvetica"  FontSize="20" />
+                            <Label Text="{Binding BrojZaPoruku}" TextColor="Black" FontFamily="Helvetica"  FontSize="20" IsVisible="False"/>
+                            <Button Text="{Binding BrojZaPoruku}" TextColor="Black" FontFamily="Helvetica"   FontSize="20" Clicked="Button_Clicked"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+    
+
+
+</ContentPage>

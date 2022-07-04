@@ -1,0 +1,16 @@
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\bin\Debug\netstandard2.0\ParkingServis.deps.json
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\bin\Debug\netstandard2.0\ParkingServis.dll
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\bin\Debug\netstandard2.0\ParkingServis.pdb
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\ParkingServis.csproj.AssemblyReference.cache
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\ParkingServis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\ParkingServis.AssemblyInfoInputs.cache
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\ParkingServis.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\ParkingServis.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\ParkingServis.dll
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\refint\ParkingServis.dll
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\ParkingServis.pdb
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\ref\ParkingServis.dll
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\Forme\Glavna.xaml.g.cs
+C:\Users\Lazar\source\repos\ParkingServis\ParkingServis\ParkingServis\obj\Debug\netstandard2.0\Forme\TablicaStrana.xaml.g.cs
